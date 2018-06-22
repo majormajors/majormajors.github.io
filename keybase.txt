@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/majormajors
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mattmayers.com
+  * I am majormajors (https://keybase.io/majormajors) on keybase.
+  * I have a public key with fingerprint 5A33 C470 AE3D 3E4B 40C5  1557 D56B 67EA 4A7F 096C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016371d2ce84ea0ce17b9f6ea0319bca5ae9ac62413dd66a8eb49e2258a2daf48c0a",
+      "fingerprint": "5a33c470ae3d3e4b40c51557d56b67ea4a7f096c",
+      "host": "keybase.io",
+      "key_id": "d56b67ea4a7f096c",
+      "kid": "01016371d2ce84ea0ce17b9f6ea0319bca5ae9ac62413dd66a8eb49e2258a2daf48c0a",
+      "uid": "52e1282f06f6e0529ae8cfba72209419",
+      "username": "majormajors"
+    },
+    "merkle_root": {
+      "ctime": 1529691847,
+      "hash_meta": "c5cc1e395a7ef285122d737edde3e6d348b4ac77e185054f2c3189de621a174c",
+      "seqno": 3127909
+    },
+    "revoke": {
+      "sig_ids": [
+        "4449f56357c924635fda017641518374a498b728c8e2cb2a22ef05d3f6e41dfb0f"
+      ]
+    },
+    "service": {
+      "hostname": "mattmayers.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1529691851,
+  "expire_in": 157680000,
+  "prev": "10a2921acba519a240cfe324340ebebe8779f39779557fe6ef31b1b22d41ebd9",
+  "seqno": 52,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtk3tsFEUcx68HUtoULYpCm9LQRUWxhZ3ZmX0c4YitJFAK4SUgjxyzs7PX43q3
+ZW+50tbyKAQppTw0YIFKgFiVIiH4QCRgQB6lYICWAKElPAONBBTEiiWCzjY+EuOf
+7iYz+/j+vr/vfnZmTa9uHm/CuXDwdv7CpKKEk9/rnhk5/p/LBd0ySgVfuRBmXRMr
+MljMCYRDhuATRCACWVKAASlTESMiZUDRNVPmlxLQdEowYRqhMkRAMgxZJirTkcYg
+xCqBBjGRSkUiZAtmKBpkdrEdijrcFhNJokgRCZMMiSEdiRQDjBUDy7qsMIKIYoqa
+THlhoRVzK3g4ncTYkJDFn/GbQFe8/9D/z7nnddlhyABUoSnK3EHEUCNMpaZOFAhF
+DQHNFcaYHSURxtURMseyu4aYUJEtRJgdLmIB27Icly91Qq4KcBdZAypS+DeSWGEg
+whzCiymmFDBJw0RhJlQxgNBQJIUZBpOYbEhI1RGhisKAikWMTEgloGoGkyEgQEEu
+ghibG7UEnwSgookaT2CzuBVmbvNYKMjJxQTfDAEdfBshzcSyhBWqQcRn0yAiUGQE
+MFAlBRGkqboCVaoySHVIIGSmiA2JM0DAMHXRFGZVuO3seIh22bs/628IjhMhpcyO
+DaFWhKcqti3HolYRf1foOMUxn8vGKS12xSVMD/xpE9BDUYMvFl4R58UhK8pZceW/
+sGGQLbD5xSGbBUKuAiuyKvLD7cPi3BKIBGqcCdUJBhqBfImZTIJIQiLT+akqimZK
+Gh/5ujOZzEwJ6EDntBFguqH9wxFDnpMEuSenFyXOPJsJFclV3ozungSvp8dTXncb
+eZKTUv/aW8uaUz2f/JjYPbX1i6ihPhHGHllW0Jk9FRvWjaXzUrJyPCcace0r9z84
+sPHVrYPFY8qCndHM6Rsr098Lv+aL548oL0zq+XHwRrDOyV18pyOn7atFVe3bVp//
+dsKs4U/PfV07Vd0ivtl3w/LPF7UOS/ZvWvplWd6hN8ZW3bo7uXZVgth4Wz2NR9/8
++uKAqdvX7KtLafZtT3/B619f8sC/fu/ji3s3zCi5WfL+zOopKw/3aB5wljRl3/ps
+ytXdA7+zF2fWtNy9cO9S4sPBm534S8mXRqb6f2iduGdJt751kyIdc0qOVFZP/qb9
+euMofK/ptwt7dgzttf/QwTm7AjmdW8v9K3ypmb4tu1Pqc8nZK6GRnYk5uR0FZ7S0
+/U+cvKy2Rycmde9ltukj/BkX0tGTd+ItdfHzecHa/msnXJu+8EGwKq0ybVE417/Y
+O6I9q+J0aX5Sv+ZLRwflNfxUP63mToOd1vPU8HFVTQsWjunY+dxHu1YdfTypo/Hd
+ygpvfsHldUMvz0Zq1o7cnmevje+Pak6uTl3Z+96Hu848hA0zbw6b374u+unS5bMz
+V0Q2d6vekHEuY1P8dzlnYu62Q/rtAqfsDB2zps/AWJ+r0y6qZeMO0wP1VwYd7z2+
+36qS0zXxpt33z6dP+aVhy/QHv649Wrb+eMvKfc+P7tzxVlb19cwXK1NK+y3ffuPu
+y21e2vmMXDXqUVLakmPP7qnPbh37Bw==
+=sdds
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/majormajors
+
+==================================================================
+
