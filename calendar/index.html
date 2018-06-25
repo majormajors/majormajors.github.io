@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Life Calendar</title>
+<style type="text/css">
+.square {
+  float: left;
+  display: block;
+  width: 5px;
+  height: 5px;
+  margin: 2px 2px 2px 2px;
+  border: 1px solid black;
+}
+.past {
+  background-color: red;
+}
+.present {
+  background-color: #1131FC;
+}
+.future {
+  background-color: white;
+}
+br {
+  margin: 0;
+  padding: 0;
+}
+</style>
+</head>
+
+<body>
+  <div id="calendar"></div>
+  <script type="text/javascript">
+  (function(){
+    var calendarDiv = document.getElementById("calendar");
+    if (window.location.search != "") {
+      var now = new Date;
+      var birthdate = new Date(window.location.search.substring(1));
+      var elapsedWeeks = Math.round((now - birthdate) / 604800000)
+
+      for (var i = 1; i <= 4680; i++) {
+        var cssClass;
+        if (i < elapsedWeeks) {
+          cssClass = "past"
+        } else if (i > elapsedWeeks) {
+          cssClass = "future"
+        } else {
+          cssClass = "present"
+        }
+        var newDiv = document.createElement("div");
+        newDiv.className = "square " + cssClass;
+        calendarDiv.appendChild(newDiv);
+        if (i % 52 == 0) {
+          calendarDiv.appendChild(document.createElement("br"));
+        }
+      }
+    } else {
+      // nothing
+    }
+  })();
+  </script>
+</body>
+
+</html>
